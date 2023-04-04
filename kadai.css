@@ -53,6 +53,7 @@ main {
   color: #fff;
 }
 
+
 .title {
   margin: 15px 0 5px;
 }
@@ -67,12 +68,11 @@ footer {
   header {
     width: 100%;
   }
-}
+
 
 main {
   width: 100%;
   display: block;
-  
 }
 
 .box {
@@ -81,4 +81,4 @@ main {
   margin-left : auto
 }
 
-
+}
